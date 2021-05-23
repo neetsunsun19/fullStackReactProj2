@@ -3,7 +3,7 @@ export default() => {
     <html lang="en">
         <head>
             <meta charset="utf-8">
-            <title>1st App from Full Stack React Projs</title>
+            <title>1st App from Full Stack React Projs - VERSION1</title>
         </head>
         <body>
             <div id="root"></div>
